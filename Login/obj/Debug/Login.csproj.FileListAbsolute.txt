@@ -1,0 +1,17 @@
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\bin\Debug\Login.exe.config
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\bin\Debug\Login.exe
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\bin\Debug\Login.pdb
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\obj\Debug\Login.exe
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\obj\Debug\Login.pdb
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\bin\Debug\System.Memory.dll
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\bin\Debug\System.Buffers.dll
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\maxka\OneDrive\Bureau\Maxime\Programmation C\Programmation Logicielle\Login\Login\obj\Debug\Login.csproj.CopyComplete
